@@ -3,6 +3,11 @@
   margin: 0 auto;
 }
 
+a {
+text-decoration: none;
+  font-size: 82px;
+}
+
 section.module h2 {
   margin-bottom: 20px;
   font-size: 30px;
