@@ -7,7 +7,7 @@
 
 .container {
   max-width: 1000px;
-  margin: 0;
+  margin-top: 0 auto;
 }
 
 section.module h2 {
