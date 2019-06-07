@@ -1,3 +1,3 @@
 body {
-background-image: url("grumpycat.jpg");
+background-image: url("grumpycat.jpg") no-repeat;
 }
