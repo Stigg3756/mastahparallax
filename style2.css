@@ -1,3 +1,4 @@
 body {
- background-image: url("grumpycat.jpg") no-repeat center fixed;
+ background-image: url("grumpycat.jpg") no-repeat;
+ position: fixed;
  }
