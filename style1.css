@@ -3,6 +3,10 @@
   margin: 0 auto;
 }
 
+.fab fa-accessible-icon {
+ height: 100px;
+  width: 100px;
+}
 
 section.module h2 {
   margin-bottom: 20px;
